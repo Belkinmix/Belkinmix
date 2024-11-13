@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Belkinmix
-- 👀 Currently, I'm looking for an end-of-studies internship starting from July/August 2024, for a period of 4-6 months, located in Paris, France. Also, open to relocating.
+- 👀 Currently, I'm looking for a CDD/CDI starting from January 2025, located in Paris, France. Also, open to relocating.
 - 🌱 I’m currently learning Data Science - Python, R, SQL, AI & ML, NLP, Power BI, Tableau, Dataiku, Google Analytics
 - 📫 How to reach me: by email at mikhailbelkin00@gmail.com or on LinkedIn - https://www.linkedin.com/in/belkinmikhail/
 - 😄 Pronouns: He/Him
-- 💕 Hobbies & Interests: Digitalization, Table Tennis, FinTech, PC Games, Technologies, Traveling
+- 💕 Hobbies & Interests: Digitalization, Table Tennis, FinTech, PC Games, Technologies, Traveling, Socializing
 - 🗣️ Languages: Russian, English, French
 
 <!---
